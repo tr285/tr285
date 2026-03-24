@@ -200,7 +200,7 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 
 <p><i>I'm always excited to collaborate on innovative projects and connect with fellow developers!</i></p>
 
-[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:narendrasamtanidev@gmail.com)
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:goretukaram62@gmail.com)
 [![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge&logo=github)](#)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-💼-orange?style=for-the-badge&logo=handshake)](#)
 
