@@ -132,12 +132,15 @@ I believe in learning by building and collaborating, and I'm always open to work
 
 - **Tech:** MySQL  
 - **Type:** DBMS Mini Project  
-**🏆 Achievement Stats**
 
-- 💻 **20+** Full-stack projects completed  
-- 🌟 **500+** GitHub stars earned  
-- 🤝 **50+** Open source contributions  
-- 📈 **10K+** Lines of code written this year  
+
+## 🏆 Achievements  
+
+- 💻 Built multiple real-world full-stack projects (ETL Pipeline, AI Assistant, Career Prediction System)  
+- 🧠 Strong problem-solving skills with focus on Data Structures & Algorithms  
+- 🗃️ Designed and implemented database systems (Bus Pass Management System - DBMS Project)  
+- 🚀 Hands-on experience with modern technologies like React, Node.js, MySQL, and Firebase  
+- 📈 Continuously learning System Design, AI, and Backend Development   
 
 </details>
 
@@ -147,11 +150,11 @@ I believe in learning by building and collaborating, and I'm always open to work
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atr285&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenway&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr285&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=alenway&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=tr285&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 
@@ -201,13 +204,9 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 <p><i>I'm always excited to collaborate on innovative projects and connect with fellow developers!</i></p>
 
 [![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:goretukaram62@gmail.com)
-[![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge&logo=github)](#)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-💼-orange?style=for-the-badge&logo=handshake)](#)
+
 
 <br><br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 
 </div>
 
