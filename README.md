@@ -1,21 +1,172 @@
-# 💫 About Me:
-👋 Hi, I’m Tukaram Gore<br><br>🌱 Aspiring J Data Scince | Problem Solver | Tech Enthusiast<br>💻 Passionate about building real-world projects, learning new technologies, and improving my coding skills every single day.<br><br>🔧 Tech Stack<br><br>Languages: Java, Python, HTML, CSS, JavaScript<br><br>Core Interests: DSA, Backend Development, Databases<br><br>Tools & Platforms: Git, GitHub, VS Code, IntelliJ<br><br>🎯 What I’m working toward<br><br>✔ Becoming a strong Java backend developer<br>✔ Solving DSA problems consistently<br>✔ Building meaningful projects & contributing to open-source<br><br>📫 Let’s Connect<br><br>🔗 GitHub: https://github.com/tr285<br><br>🔗 LinkedIn: www.linkedin.com/in/tukaram-gore-99ab61322<br><br>✨ Always learning. Always improving. Always building.
+# Hi there, I'm Tukaram Gore 👋  
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;AI+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tukaram_gore_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tukaram-gore-99ab61322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goretukaram62@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tr285&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tr285&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tr285&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tr285&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tr285&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+
+I'm a passionate developer focused on building **real-world, scalable applications** and solving complex problems using technology.  
+
+- 🔭 **Currently working on:**  
+  - Movie ETL Pipeline Dashboard  
+  - Career Prediction App (React + AI logic)  
+  - AI Assistant (Ollama + Voice + Kivy)  
+
+- 🌱 **Learning:**  
+  - Advanced Data Structures & Algorithms  
+  - System Design  
+  - Cloud & DevOps  
+
+- 👯 **Looking to collaborate on:**  
+  - AI projects  
+  - Full-stack apps  
+  - Open source  
+
+- 💬 **Ask me about:**  
+  - C++, JavaScript, React  
+  - DBMS & Backend systems  
+  - Algorithms (Binary Search, Dijkstra, etc.)  
+
+- ⚡ **Fun fact:**  
+  I turn logic into code and coffee into solutions ☕  
+
+---
+
+## 🛠️ Technologies & Tools  
+
+<details>
+<summary>📦 <b>Click to view technologies & tools</b></summary>
+<br>
+
+### 👨‍💻 Languages
+- C, C++, Java, JavaScript  
+
+### 🌐 Frontend
+- React.js  
+- HTML, CSS  
+- Tailwind CSS  
+
+### 🧠 Backend
+- Node.js  
+- Express.js  
+
+### 🗃️ Databases
+- MySQL  
+- MongoDB  
+- Firebase  
+
+### ☁️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Vercel / Netlify  
+- MySQL Workbench  
+
+</details>
+
+---
+
+## 🎯 Featured Projects  
+
+### 🚀 Movie ETL Pipeline Dashboard
+- **Tech:** Python, MySQL, Dashboard UI  
+- **Features:** Data extraction, transformation, visualization  
+- **Status:** 🟢 Active Development  
+
+---
+
+### 🎯 Career Prediction System
+- **Tech:** React, AI Logic  
+- **Features:**  
+  - Skill-based career suggestions  
+  - Skill gap analysis  
+  - Learning roadmap  
+- **Status:** 🟡 In Progress  
+
+---
+
+### 🤖 AI Assistant
+- **Tech:** Python, Kivy, Ollama  
+- **Features:**  
+  - Voice interaction  
+  - Smart responses  
+  - Local AI model integration  
+
+---
+
+### 🚌 Bus Pass Management System
+- **Tech:** MySQL  
+- **Features:** Database design & management system  
+- **Status:** ✅ Completed (DBMS Mini Project)  
+
+---
+
+## 📊 GitHub Analytics  
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Contribution Graph  
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+## 💭 Quote of the Day  
+
+<div align="center">
+
+**"First, solve the problem. Then, write the code." – John Johnson**
+
+</div>
+
+---
+
+## 🤝 Let's Connect  
+
+I'm always open to collaborations and building impactful projects 🚀  
+
+<div align="center">
+
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge)](mailto:your-email@gmail.com)
+[![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🤝 Let's Build Something Amazing Together!</h2>
+<p><i>Open to opportunities, collaborations, and learning!</i></p>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
