@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-samtani-7b2694279/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendrasamtanidev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alenway.github.io/modernportfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tukaram-gore-99ab61322)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goretukaram62@gmail.com)
+(https://tr285.github.io/modernportfolio/)
 
 </div>
 
@@ -39,17 +39,15 @@ I believe in learning by building and collaborating, and I'm always open to work
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
+<img src="https://img.shields.io/badge/html and css-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 </td>
@@ -101,28 +99,39 @@ I believe in learning by building and collaborating, and I'm always open to work
 <tr>
 <td width="50%">
 
-**🚀 Modern Portfolio Website**
+**🎬 Movie ETL Pipeline Dashboard**
 
-- **Tech:** HTML, CSS, Next.js, MongoDB  
-- **Features:** Portfolio website  
-- **Status:** 🟢 Live & Growing  
-- [**Demo**](https://modernportfolio-jst3.vercel.app/) | [**Code**](https://github.com/alenway/modernportfolio)
+- **Tech:** Python, MySQL  
+- **Features:** Data extraction, transformation, dashboard visualization  
+- **Status:** 🟢 In Progress  
 
 </td>
 
 <td width="50%">
 
-**🎮 Project Beta**
+**🎯 Career Prediction System**
 
-- **Tech:** Next.js, TypeScript, Prisma  
-- **Features:** 3D visualizations, WebRTC  
-- **Status:** 🟡 In Development  
-- [**Demo**](#) | [**Code**](#)
+- **Tech:** React  
+- **Features:** Skill analysis, career suggestions, learning roadmap  
+- **Status:** 🟡 Building  
 
 </td>
 </tr>
 </table>
 
+---
+
+**🤖 AI Assistant**
+
+- **Tech:** Python, Kivy, Ollama  
+- **Features:** Voice assistant + local AI integration  
+
+---
+
+**🚌 Bus Pass Management System**
+
+- **Tech:** MySQL  
+- **Type:** DBMS Mini Project  
 **🏆 Achievement Stats**
 
 - 💻 **20+** Full-stack projects completed  
@@ -137,7 +146,7 @@ I believe in learning by building and collaborating, and I'm always open to work
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alenway&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atr285&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenway&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
@@ -152,7 +161,7 @@ I believe in learning by building and collaborating, and I'm always open to work
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alenway&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tr285&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -173,7 +182,7 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-<img src="https://komarev.com/ghpvc/?username=alenway&style=for-the-badge&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=tr285&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
