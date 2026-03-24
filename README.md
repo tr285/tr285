@@ -1,14 +1,14 @@
-# Hi there, I'm Tukaram Gore 👋  
+# Hi there, I'm Tukaram Gore 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;AI+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-samtani-7b2694279/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendrasamtanidev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alenway.github.io/modernportfolio/)
 
 </div>
 
@@ -16,141 +16,171 @@
 
 ## 🚀 About Me  
 
-I'm a passionate developer focused on building **real-world, scalable applications** and solving complex problems using technology.  
+I'm a passionate full-stack developer who enjoys building scalable applications and solving real-world problems using technology. I have a strong foundation in data structures, algorithms, and backend systems, and I’m constantly exploring modern tools and frameworks.
 
-- 🔭 **Currently working on:**  
-  - Movie ETL Pipeline Dashboard  
-  - Career Prediction App (React + AI logic)  
-  - AI Assistant (Ollama + Voice + Kivy)  
+Currently, I’m working on projects like a Movie ETL Pipeline, a Career Prediction system, and an AI-powered assistant. I enjoy turning ideas into functional products and continuously improving my skills in system design, cloud technologies, and AI.
 
-- 🌱 **Learning:**  
-  - Advanced Data Structures & Algorithms  
-  - System Design  
-  - Cloud & DevOps  
+I believe in learning by building and collaborating, and I'm always open to working on innovative projects.
 
-- 👯 **Looking to collaborate on:**  
-  - AI projects  
-  - Full-stack apps  
-  - Open source  
-
-- 💬 **Ask me about:**  
-  - C++, JavaScript, React  
-  - DBMS & Backend systems  
-  - Algorithms (Binary Search, Dijkstra, etc.)  
-
-- ⚡ **Fun fact:**  
-  I turn logic into code and coffee into solutions ☕  
-
----
-
-## 🛠️ Technologies & Tools  
+## 🛠️ Technologies & Tools
 
 <details>
 <summary>📦 <b>Click to view technologies & tools</b></summary>
 <br>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 👨‍💻 Languages
-- C, C++, Java, JavaScript  
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
 ### 🌐 Frontend
-- React.js  
-- HTML, CSS  
-- Tailwind CSS  
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ### 🧠 Backend
-- Node.js  
-- Express.js  
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
 
 ### 🗃️ Databases
-- MySQL  
-- MongoDB  
-- Firebase  
 
-### ☁️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Vercel / Netlify  
-- MySQL Workbench  
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 </details>
 
 ---
 
-## 🎯 Featured Projects  
+<details>
+<summary>🎯 <b>Featured Projects (Click to explore!)</b></summary>
+<br>
 
-### 🚀 Movie ETL Pipeline Dashboard
-- **Tech:** Python, MySQL, Dashboard UI  
-- **Features:** Data extraction, transformation, visualization  
-- **Status:** 🟢 Active Development  
+### 🌟 Project Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 Modern Portfolio Website**
+
+- **Tech:** HTML, CSS, Next.js, MongoDB  
+- **Features:** Portfolio website  
+- **Status:** 🟢 Live & Growing  
+- [**Demo**](https://modernportfolio-jst3.vercel.app/) | [**Code**](https://github.com/alenway/modernportfolio)
+
+</td>
+
+<td width="50%">
+
+**🎮 Project Beta**
+
+- **Tech:** Next.js, TypeScript, Prisma  
+- **Features:** 3D visualizations, WebRTC  
+- **Status:** 🟡 In Development  
+- [**Demo**](#) | [**Code**](#)
+
+</td>
+</tr>
+</table>
+
+**🏆 Achievement Stats**
+
+- 💻 **20+** Full-stack projects completed  
+- 🌟 **500+** GitHub stars earned  
+- 🤝 **50+** Open source contributions  
+- 📈 **10K+** Lines of code written this year  
+
+</details>
 
 ---
 
-### 🎯 Career Prediction System
-- **Tech:** React, AI Logic  
-- **Features:**  
-  - Skill-based career suggestions  
-  - Skill gap analysis  
-  - Learning roadmap  
-- **Status:** 🟡 In Progress  
-
----
-
-### 🤖 AI Assistant
-- **Tech:** Python, Kivy, Ollama  
-- **Features:**  
-  - Voice interaction  
-  - Smart responses  
-  - Local AI model integration  
-
----
-
-### 🚌 Bus Pass Management System
-- **Tech:** MySQL  
-- **Features:** Database design & management system  
-- **Status:** ✅ Completed (DBMS Mini Project)  
-
----
-
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alenway&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenway&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=alenway&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alenway&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph  
+## 💭 Quote of the Day
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 ---
 
-## 💭 Quote of the Day  
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects and meeting fellow developers.
 
 <div align="center">
 
-**"First, solve the problem. Then, write the code." – John Johnson**
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+<img src="https://komarev.com/ghpvc/?username=alenway&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect  
-
-I'm always open to collaborations and building impactful projects 🚀  
-
 <div align="center">
-
-[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge)](mailto:your-email@gmail.com)
-[![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge)](#)
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
 </div>
 
 ---
@@ -158,7 +188,14 @@ I'm always open to collaborations and building impactful projects 🚀
 <div align="center">
 
 <h2>🤝 Let's Build Something Amazing Together!</h2>
-<p><i>Open to opportunities, collaborations, and learning!</i></p>
+
+<p><i>I'm always excited to collaborate on innovative projects and connect with fellow developers!</i></p>
+
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:narendrasamtanidev@gmail.com)
+[![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge&logo=github)](#)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-💼-orange?style=for-the-badge&logo=handshake)](#)
+
+<br><br>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
